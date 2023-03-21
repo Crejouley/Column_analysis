@@ -1,0 +1,2 @@
+# Column_analysis
+A small tool to use google's OCR recognition to take a picture of a column and sum the total.
